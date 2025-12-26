@@ -9,7 +9,9 @@ The multithreaded HTTP server uses a thread pool design to support multiple conc
 ## Features:
 
 A multithreaded server that creates a thread pool to handle multiple clients
+
 Direct communication between client and server for a single-threaded server
+
 Supports HTTP requests and responses between clients and the server
 
 ## Skills Developed: 
