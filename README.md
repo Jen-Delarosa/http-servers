@@ -1,6 +1,6 @@
 # http-servers
 
-## Project Overview 
+# Project Overview 
 A simple HTTP server implemented in C that can handle text and image responses.
 
 The project includes: 
