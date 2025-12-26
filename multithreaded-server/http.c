@@ -10,6 +10,7 @@
 
 #define BUFSIZE 512
 
+// This function was provided by instructors as starter code
 const char *get_mime_type(const char *file_extension) {
     if (strcmp(".txt", file_extension) == 0) {
         return "text/plain";
