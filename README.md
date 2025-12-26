@@ -28,5 +28,5 @@ Robust error checking for socket operation, file I/O, and thread management
 
 ## Collaboration:
 
-This project was completed in collaboration with another student. Some starter code and scripts were provided by the course instructors. 
+This project was completed in collaboration with another student. Some starter code and helper functions were provided by the course instructors. 
 	
