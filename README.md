@@ -15,10 +15,14 @@ Supports HTTP requests and responses between clients and the server
 ## Skills Developed: 
 
 TCP socket programming in C
+
 Server-side communication design
-HTTP requests and response parsing 
-Signal handling for server termination 
-Robust error checking for socket operation, file I/O, and thread management. 
+
+HTTP requests and response parsing
+
+Signal handling for server termination
+
+Robust error checking for socket operation, file I/O, and thread management
 
 ## Collaboration:
 
