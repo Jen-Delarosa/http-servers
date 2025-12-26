@@ -1,6 +1,6 @@
 # http-servers
 
-# Project Overview 
+## Project Overview 
 
 This project implements two HTTP servers in C that handle both text and image responses. The first is a single-threaded HTTP server that supports one client connection at a time. The second is a multithreaded HTTP server built by extending the single-threaded implementation.
 
